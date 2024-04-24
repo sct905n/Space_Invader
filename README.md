@@ -20,7 +20,21 @@
 
 -Create main, calling all the functions for the project to run properly.
 
+
+##HOW TO PLAY
+
+-Use arrow keys to move and "Space" key to shoot
+
+
+##DEMO VIDEO
+
+https://github.com/sct905n/Space_Invader/assets/167898938/b292d321-da85-40b6-b6d9-7315d0b1187b
+
+
+
 ###=================================================================================
+
+
 
 ###VIETNAMESE
 
@@ -41,3 +55,6 @@
 -Tạo các hàm xử lý điểm cao, dự án sẽ lấy điểm và ghi vào một file txt riêng. Từ đó, dự án sẽ tìm ra số điểm cao nhất và đưa chúng lên màn hình
 
 -Tạo main, gọi tất cả các chức năng để project chạy ổn định.
+
+###Cách chơi
+Sử dụng các phím mũi tên để di chuyển và phím "Space Bar" để bắn đạn
